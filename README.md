@@ -1,6 +1,6 @@
 # system-automation-scripts
 
-# Binary Image Decoder Script
+## Binary Image Decoder Script
 
 ## Description
 This shell script decodes and displays a custom binary image format's content and validates its integrity based on specified metadata. It checks for several error types, including column count mismatches, invalid binary values, and bit-count inconsistencies.
