@@ -2,16 +2,14 @@
 #################################
 # SCRIPT INFORMATION
 #################################
-# Author: Your Name
-# Date: Oct 9, YYYY
+# Author: Laura
+# Date: Oct 9, 2024
 # Purpose: Decodes and validates a custom binary image format
 #          and displays content with error-checking
 #################################
 
 #################################
-# SYSTEM VARIABLES (DO NOT MODIFY)
 #################################
-   /units/kit501/bin/checker $0
    IMGVAL='$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft//|()1{}[]?-_+~<>i!lI;:,"^``.'
    NL=$'\n'
    FONTRED='\033[1;31m'
